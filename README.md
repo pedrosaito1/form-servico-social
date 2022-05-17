@@ -17,6 +17,6 @@ Em andamento*** <br>
 
 Pedro Saito <br>
 
-<img src="/img/pedro_saito.jpg" width="150px"></img><br>
+<img src="/imgs/pedro_saito.jpg" width="150px"></img><br>
 
 <a href="https://www.linkedin.com/in/pedrosaito1/" target="_blank">Linkedin</a>
